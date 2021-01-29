@@ -16,7 +16,11 @@
         <img id="mc1" src="img/marca-removebg-preview.png" border="0" />
 
     </div>
-   
+   <div class = "posicao">
+
+    <img id="po1" src="img/posicao.png" border="0" />
+
+   </div>
 
    </div>
  <div>

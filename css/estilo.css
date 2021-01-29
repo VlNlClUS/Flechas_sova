@@ -23,3 +23,13 @@ body {
 
 
   }
+
+  .posicao img{
+
+    display: none;
+    width: 22px;
+    height: 22px;
+
+  }
+
+
