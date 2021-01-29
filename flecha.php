@@ -12,13 +12,14 @@
 <div>
     <div class=flecha>
         
-        <img id="flechax" src="img/ascent/atk/atk_flecha_bomb_a_c.jpg" border="0" />
+        <img id="flechax" src="img/ascent/atk_flecha_bomb_a_c.jpg" border="0" />
 
     </div>
   
     
     <div id = menu_fecha>
         <button id="main_menu">Menu</button>
+        <input type="button" value="Voltar" onClick="history.go(-1)"> 
     </div>
 </div>
     <script src="js/scripts.js"></script>
