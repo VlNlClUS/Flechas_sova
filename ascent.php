@@ -9,7 +9,7 @@
 </head>
 <body>
     
-   <div id=teste>
+   <div id=background_ascent>
 
     <div class=centro_bomb_a>
         

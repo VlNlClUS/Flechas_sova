@@ -4,16 +4,16 @@ console.log("teste");
 
 $( "#map_split" ).click(function() {
 
-    window.location.href = "split.html";
+    window.location.href = "split.php";
   });
 
   $( "#map_ascent" ).click(function() {
 
-    window.location.href = "ascent.html";
+    window.location.href = "ascent.php";
   });
   $( "#main_menu" ).click(function() {
 
-    window.location.href = "index.html";
+    window.location.href = "index.php";
   });
   
 
@@ -32,6 +32,10 @@ $( "#map_split" ).click(function() {
 
   $( "#map_split" ).click(function() {
 
-    window.location.href = "split.html";
+    window.location.href = "split.php";
   });
 
+  $( "#po1" ).click(function() {
+
+    window.location.href = "flecha.php";
+  });

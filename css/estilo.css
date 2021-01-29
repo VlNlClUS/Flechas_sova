@@ -2,12 +2,17 @@ body {
     background-color: #212121;
   }
 
-  #teste{
+  #background_ascent{
     width: 1196px;
-    height: 671px;
+    height: 660px;
     background-image: url(../img/mapa_ascent.jpg);
+   
   }
+  .flecha{
 
+    height: 660px;
+
+  }
   .centro_bomb_a img{
     
         width: 22px;
@@ -15,6 +20,8 @@ body {
 
       
   }
+
+  
   #mc1{
 
 
@@ -31,5 +38,6 @@ body {
     height: 22px;
 
   }
+
 
 
