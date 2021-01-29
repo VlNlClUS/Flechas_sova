@@ -11,3 +11,8 @@ $( "#map_split" ).click(function() {
 
     window.location.href = "ascent.html";
   });
+  $( "#main_menu" ).click(function() {
+
+    window.location.href = "index.html";
+  });
+  

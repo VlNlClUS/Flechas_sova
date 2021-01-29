@@ -7,3 +7,19 @@ body {
     height: 671px;
     background-image: url(../img/mapa_ascent.jpg);
   }
+
+  .centro_bomb_a img{
+    
+        width: 22px;
+        height: 22px;
+
+      
+  }
+  #mc1{
+
+
+    margin-left: 835px;
+    margin-top: 219px;
+
+
+  }
