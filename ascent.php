@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css"  href="css/estilo.css" />
     <title>Document</title>
 </head>
-<body>
+<body id="ascent">
     
    <div id=background_ascent>
 
@@ -26,7 +26,7 @@
     <?php  for($i=1; $i <10 ; $i++){   ?>
    <div class = "posicao">
 
-    <img id="po1" src="img/posicao.png" border="0" />
+    <img id="po<?php echo $i ?>" src="img/posicao.png" border="0" />
     <?php } ?>
    </div>
 

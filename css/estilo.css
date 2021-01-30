@@ -1,10 +1,14 @@
-body {
-    background-color: #212121;
+#ascent{
+    background-color: #A17359;
   }
+  #flechas_ascent{
+    
+    background-color: #212121;
 
+  }
   #background_ascent{
-    width: 1196px;
-    height: 660px;
+    width: 794px;
+    height: 860px;
     background-image: url(../img/mapa_ascent.jpg);
    
   }
@@ -25,17 +29,38 @@ body {
   #mc1{
 
     position:absolute;
-    margin-left: 835px;
-    margin-top: 219px;
+    margin-left: 608px;
+    margin-top: 285px;
 
 
   }
   #mc2{
 
     position:absolute;
-    margin-left: 835px;
+    margin-left: 633px;
     margin-top: 222px;
 
+  }
+
+  #mc3{
+
+    position:absolute;
+    margin-left: 680px;
+    margin-top: 228px;
+
+  }
+  #mc4{
+
+    position:absolute;
+    margin-left: 723px;
+    margin-top: 224px;
+
+  }
+  #mc5{
+
+    position:absolute;
+    margin-left: 628px;
+    margin-top: 293px;
 
   }
   .posicao img{
@@ -44,6 +69,48 @@ body {
     height: 22px;
 
   }
+  #po1{
 
+    position:absolute;
+    margin-left: 587px;
+    margin-top: 490px;
 
+  }
 
+  #po2{
+
+    position:absolute;
+    margin-left: 593px;
+    margin-top: 499px;
+
+  }
+
+  #po3{
+
+    position:absolute;
+    margin-left: 548px;
+    margin-top: 453px;
+
+  }
+  #po4{
+
+    position:absolute;
+    margin-left: 538px;
+    margin-top: 565px;
+
+  }
+  #po5{
+
+    position:absolute;
+    margin-left: 595px;
+    margin-top: 95px;
+
+  }
+
+  #po6{
+
+    position:absolute;
+    margin-left: 632px;
+    margin-top: 400px;
+
+  }
