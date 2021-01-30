@@ -59,8 +59,16 @@
   #mc5{
 
     position:absolute;
-    margin-left: 628px;
+    margin-left: 630px;
     margin-top: 293px;
+
+  }
+
+  #mc6{
+
+    position:absolute;
+    margin-left: 686px;
+    margin-top: 276px;
 
   }
   .posicao img{
@@ -112,5 +120,29 @@
     position:absolute;
     margin-left: 632px;
     margin-top: 400px;
+
+  }
+
+  #po7{
+
+    position:absolute;
+    margin-left: 556px;
+    margin-top: 396px;
+
+  }
+
+  #po8{
+
+    position:absolute;
+    margin-left: 530px;
+    margin-top: 270px;
+
+  }
+
+  #po9{
+
+    position:absolute;
+    margin-left: 530px;
+    margin-top: 270px;
 
   }

@@ -14,7 +14,7 @@
     <div class=marcacoes>
 
 
-    <?php  for($i=1; $i <10 ; $i++){   ?>
+    <?php  for($i=1; $i <=15 ; $i++){   ?>
       
         <img id="mc<?php echo $i ?>" src="img/marca-removebg-preview.png" border="0" />
        
@@ -23,7 +23,7 @@
 
     </div>
 
-    <?php  for($i=1; $i <10 ; $i++){   ?>
+    <?php  for($i=1; $i <=15 ; $i++){   ?>
    <div class = "posicao">
 
     <img id="po<?php echo $i ?>" src="img/posicao.png" border="0" />
