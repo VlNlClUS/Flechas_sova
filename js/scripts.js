@@ -37,5 +37,5 @@ $( "#map_split" ).click(function() {
 
   $( "#po1" ).click(function() {
 
-    window.location.href = "flecha.php";
+    window.location.href = "flecha.php?posicao=1";
   });

@@ -11,15 +11,23 @@
     
    <div id=background_ascent>
 
-    <div class=centro_bomb_a>
-        
-        <img id="mc1" src="img/marca-removebg-preview.png" border="0" />
+    <div class=marcacoes>
+
+
+    <?php  for($i=1; $i <10 ; $i++){   ?>
+      
+        <img id="mc<?php echo $i ?>" src="img/marca-removebg-preview.png" border="0" />
+       
+
+<?php } ?>
 
     </div>
+
+    <?php  for($i=1; $i <10 ; $i++){   ?>
    <div class = "posicao">
 
     <img id="po1" src="img/posicao.png" border="0" />
-
+    <?php } ?>
    </div>
 
    </div>

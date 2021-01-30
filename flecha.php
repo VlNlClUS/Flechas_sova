@@ -12,7 +12,7 @@
 <div>
     <div class=flecha>
         
-        <img id="flechax" src="img/ascent/atk_flecha_bomb_a_c.jpg" border="0" />
+        <img id="flechax" src="img/ascent/pos<?php echo $_GET['posicao']; ?>.jpg" border="0" />
 
     </div>
   
