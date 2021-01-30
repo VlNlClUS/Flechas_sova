@@ -34,12 +34,13 @@ $( "#map_split" ).click(function() {
 
   $( "#mc3" ).click(function() {
 
-    $("#po3").toggle();
+    $("#po4").toggle();
   });
 
   $( "#mc4" ).click(function() {
 
-    $("#po4").toggle();
+    $("#po3").toggle();
+    $("#po11").toggle();
   });
 
   $( "#mc5" ).click(function() {
@@ -48,11 +49,17 @@ $( "#map_split" ).click(function() {
     $("#po6").toggle();
     $("#po7").toggle();
     $("#po9").toggle();
+    $("#po10").toggle();
   });
 
   $( "#mc6" ).click(function() {
 
     $("#po8").toggle();
+  });
+
+  $( "#mc7" ).click(function() {
+
+    $("#po12").toggle();
   });
 
 

@@ -71,6 +71,14 @@
     margin-top: 276px;
 
   }
+
+  #mc7{
+
+    position:absolute;
+    margin-left: 510px;
+    margin-top: 367px;
+
+  }
   .posicao img{
     /* display: none; */
     width: 22px;
@@ -96,7 +104,7 @@
   #po3{
 
     position:absolute;
-    margin-left: 548px;
+    margin-left: 545px;
     margin-top: 453px;
 
   }
@@ -144,5 +152,28 @@
     position:absolute;
     margin-left: 530px;
     margin-top: 270px;
+
+  }
+
+  #po10{
+
+    position:absolute;
+    margin-left: 545px;
+    margin-top: 452px;
+
+  }
+  #po11{
+
+    position:absolute;
+    margin-left: 558px;
+    margin-top: 462px;
+
+  }
+
+  #po12{
+
+    position:absolute;
+    margin-left: 593px;
+    margin-top: 513px;
 
   }
