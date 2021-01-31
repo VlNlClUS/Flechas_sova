@@ -55,6 +55,7 @@ $( "#map_split" ).click(function() {
   $( "#mc6" ).click(function() {
 
     $("#po8").toggle();
+    $("#po20").toggle();
   });
 
   $( "#mc7" ).click(function() {
@@ -81,6 +82,23 @@ $( "#map_split" ).click(function() {
   $( "#mc12" ).click(function() {
 
     $("#po18").toggle();
+  });
+
+  $( "#mc13" ).click(function() {
+
+    $("#po19").toggle();
+  });
+
+  $( "#mc14" ).click(function() {
+
+    $("#po21").toggle();
+    $("#po22").toggle();
+  });
+  
+  $( "#mc15" ).click(function() {
+
+    $("#po23").toggle();
+   
   });
   //metodo direciornar 
 

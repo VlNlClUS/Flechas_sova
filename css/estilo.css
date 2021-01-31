@@ -67,7 +67,7 @@
   #mc6{
 
     position:absolute;
-    margin-left: 686px;
+    margin-left: 680px;
     margin-top: 276px;
 
   }
@@ -111,6 +111,31 @@
     margin-top: 253px;
 
   }
+
+  #mc13{
+
+    position:absolute;
+    margin-left: 705px;
+    margin-top: 260px;
+
+  }
+
+  #mc14{
+
+    position:absolute;
+    margin-left: 81px;
+    margin-top: 258px;
+
+  }
+  
+  #mc15{
+
+    position:absolute;
+    margin-left: 250px;
+    margin-top: 470px;
+
+  }
+ 
   .posicao img{
     /* display: none; */
     width: 22px;
@@ -254,4 +279,44 @@
     margin-left: 130px;
     margin-top: 485px;
 
+  }
+
+  #po19{
+
+    position:absolute;
+    margin-left: 212px;
+    margin-top: 100px;
+
+  }
+
+  #po20{
+
+    position:absolute;
+    margin-left: 568px;
+    margin-top: 565px;
+
+  }
+
+  #po21{
+
+    position:absolute;
+    margin-left: 207px;
+    margin-top: 345px;
+
+  }
+
+  #po22{
+
+    position:absolute;
+    margin-left: 278px;
+    margin-top: 217px;
+  
+  }
+
+  #po23{
+
+    position:absolute;
+    margin-left: 575px;
+    margin-top: 308px;
+  
   }
