@@ -87,6 +87,7 @@ $( "#map_split" ).click(function() {
   $( "#mc13" ).click(function() {
 
     $("#po19").toggle();
+    $("#po32").toggle();
   });
 
   $( "#mc14" ).click(function() {
@@ -140,6 +141,18 @@ $( "#map_split" ).click(function() {
   $( "#mc22" ).click(function() {
 
     $("#po30").toggle();
+   
+  });
+
+  $( "#mc23" ).click(function() {
+
+    $("#po31").toggle();
+   
+  });
+  
+  $( "#mc24" ).click(function() {
+
+    $("#po33").toggle();
    
   });
   //metodo direciornar 

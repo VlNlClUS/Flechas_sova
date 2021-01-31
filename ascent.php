@@ -23,7 +23,7 @@
 
     </div>
 
-    <?php  for($i=1; $i <=30 ; $i++){   ?>
+    <?php  for($i=1; $i <=36 ; $i++){   ?>
    <div class = "posicao">
 
     <img id="po<?php echo $i ?>" src="img/posicao.png" border="0" />

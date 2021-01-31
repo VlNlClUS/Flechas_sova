@@ -191,6 +191,22 @@
     margin-top: 590px;
  
   }
+
+  #mc23{
+
+    position:absolute;
+    margin-left: 295px;
+    margin-top: 447px;
+ 
+  }
+
+  #mc24{
+
+    position:absolute;
+    margin-left: 546px;
+    margin-top: 410px;
+ 
+  }
   .posicao img{
     /* display: none; */
     width: 22px;
@@ -429,5 +445,30 @@
     position:absolute;
     margin-left: 522px;
     margin-top: 325px;
+  
+  }
+
+  
+  #po31{
+
+    position:absolute;
+    margin-left: 520px;
+    margin-top: 285px;
+  
+  }
+
+  #po32{
+
+    position:absolute;
+    margin-left: 363px;
+    margin-top: 55px;
+  
+  }
+  
+  #po33{
+
+    position:absolute;
+    margin-left: 640px;
+    margin-top: 328px;
   
   }
