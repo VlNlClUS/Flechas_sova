@@ -14,7 +14,7 @@
     <div class=marcacoes>
 
 
-    <?php  for($i=1; $i <=20 ; $i++){   ?>
+    <?php  for($i=1; $i <=26 ; $i++){   ?>
       
         <img id="mc<?php echo $i ?>" src="img/marca-removebg-preview.png" border="0" />
        

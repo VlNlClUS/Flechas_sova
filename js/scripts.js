@@ -99,6 +99,48 @@ $( "#map_split" ).click(function() {
 
     $("#po23").toggle();
    
+  });  
+
+  $( "#mc16" ).click(function() {
+
+    $("#po24").toggle();
+   
+  });
+
+  $( "#mc17" ).click(function() {
+
+    $("#po25").toggle();
+   
+  });
+  
+  $( "#mc18" ).click(function() {
+
+    $("#po26").toggle();
+   
+  });
+
+  $( "#mc19" ).click(function() {
+
+    $("#po27").toggle();
+   
+  });
+
+  $( "#mc20" ).click(function() {
+
+    $("#po28").toggle();
+   
+  });
+
+  $( "#mc21" ).click(function() {
+
+    $("#po29").toggle();
+   
+  });
+
+  $( "#mc22" ).click(function() {
+
+    $("#po30").toggle();
+   
   });
   //metodo direciornar 
 
@@ -240,6 +282,36 @@ $( "#map_split" ).click(function() {
   $( "#po27" ).click(function() {
 
     window.location.href = "flecha.php?posicao=27";
+  });
+
+  $( "#po28" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=28";
+  });
+
+  $( "#po29" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=29";
+  });
+
+  $( "#po30" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=30";
+  });
+
+  $( "#po31" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=31";
+  });
+
+  $( "#po32" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=32";
+  });
+
+  $( "#po33" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=33";
   });
   
   
