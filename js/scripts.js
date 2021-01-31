@@ -62,7 +62,26 @@ $( "#map_split" ).click(function() {
     $("#po12").toggle();
   });
 
+  $( "#mc8" ).click(function() {
 
+    $("#po13").toggle();
+    $("#po14").toggle();
+  });
+  $( "#mc9" ).click(function() {
+
+    $("#po15").toggle();
+    $("#po16").toggle();
+  });
+
+  $( "#mc10" ).click(function() {
+
+    $("#po17").toggle();
+  });
+
+  $( "#mc12" ).click(function() {
+
+    $("#po18").toggle();
+  });
   //metodo direciornar 
 
   $( "#map_split" ).click(function() {
@@ -139,5 +158,71 @@ $( "#map_split" ).click(function() {
 
     window.location.href = "flecha.php?posicao=14";
   });
+  
+  $( "#po15" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=15";
+  });
+  
+  $( "#po16" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=16";
+  });
+  
+  $( "#po17" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=17";
+  });
+  
+  $( "#po18" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=18";
+  });
+  
+  $( "#po19" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=19";
+  });
+  
+  $( "#po20" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=20";
+  });
+  
+  $( "#po21" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=21";
+  });
+  
+  $( "#po22" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=22";
+  });
+  
+  $( "#po23" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=23";
+  });
+  
+  $( "#po24" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=24";
+  });
+  
+  $( "#po25" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=25";
+  });
+  
+  $( "#po26" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=26";
+  });
+  
+  $( "#po27" ).click(function() {
+
+    window.location.href = "flecha.php?posicao=27";
+  });
+  
   
   
