@@ -1,6 +1,15 @@
 #ascent{
     background-color: #A17359;
   }
+
+  @media screen and (max-width:
+800px) {
+ #flechax { 
+   
+  transform: rotate(90deg);
+
+}
+}
   #flechas_ascent{
     
     background-color: #212121;
