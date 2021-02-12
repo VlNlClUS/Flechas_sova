@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
+
     <script src="js/jquery-3.3.1.min.js"></script>
     <meta charset="UTF-8">
    
@@ -10,7 +11,7 @@
 </head>
 <body>
     <div id=teste>
-
+<!-- TESTE -->
 
 
     </div>
